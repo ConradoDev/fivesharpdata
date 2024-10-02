@@ -4,10 +4,15 @@
 ..title Manutenção Agendada.
 ..date 24/9/2024 08:00
 ..desc    Estamos nos preparando para uma super atualização de Halloween que estará ativa dia 1 de outubro de 2024.
-..link https://discord.gg/fivesharp
 ..add
 .issue
 ..title Aviso de Manutenção em Curso.
 ..date 01/10/2024 20:00
 ..desc    Os serviços a partir de agora estão encerrados para a aplicação de uma manutenção que tem o término previsto para às 21:00h BRT.
+..add
+.issue
+..title Período de Manutenção Estendido.
+..date 01/10/2024 21:55
+..desc   Os serviços foram restabelecidos após uma manutenção mais longa que o previsto. A segunda parte da atualização está programada para amanhã, 02/10. Feliz Halloween!
+..link https://discord.gg/fivesharp
 ..add
